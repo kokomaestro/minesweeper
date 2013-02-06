@@ -1,0 +1,58 @@
+#newtable{
+border:0px solid #999;
+cellspacing:0px
+font-family:verdana,arial,helvetica,sans-serif;
+font-size:15px;
+/* margin:auto; */
+border-collapse:collapse;
+/* color:#2062B8; */
+}
+#newtable td{
+width:20px;
+line-height:20px;
+border:1px solid #000;
+text-align:center;
+background-color: #2062B8;
+color: #2062B8;
+}
+
+#newgameButton{
+padding-top:10px;
+padding-bottom:10px;
+color:Yellow;
+background-color:Purple;
+align:center;
+margin-right:18px;
+margin-bottom:10px;
+}
+#smileyButton{
+margin-right:25px;
+}
+/* #mineBox{ */
+/* background-color:#00FFFF; */
+/* } */
+
+#one{
+  color:blue;
+}
+#two{
+	color:green;
+}
+#three{
+	color:red;
+}
+#four{
+	color:purple;
+}
+#five{
+	color:maroon;
+}
+#six{
+	color:turquoise;
+}
+#seven{
+	color:black;
+}
+#eight{
+	color:grey;
+}
